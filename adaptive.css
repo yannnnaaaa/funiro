@@ -1,0 +1,386 @@
+@media (max-width: 1200px){
+
+.w-100 {
+    width: 127%!important;
+}
+
+}
+
+
+@media (max-width: 1000px){
+    .w-100 {
+        width: 150%!important;
+    }
+    .display-4 {
+        font-size: xx-large;
+    }
+
+.lead {
+    font-size: smaller;
+}
+.navbar-brand{
+    display: none;
+}
+  
+.lol {
+    --bs-btn-line-height: 35px;
+    width: 45%;
+    font-size: 16px;
+    
+}
+.fs-5 {
+    font-size: 0.8rem!important;
+}
+.fs-6 {
+    font-size: 0.7rem!important;
+}
+
+.oneone {
+    margin-top: 50px;
+    margin-bottom: -50px;
+}
+.zagolovok {
+    margin-bottom: -40px;
+}
+.fs-1{
+    font-size: calc(1.1rem + 1.5vw)!important;
+}
+.container {
+    margin-top: 15px;
+}
+
+.carousel-inner {
+    max-height: 450px;
+    }
+
+.lol2 {
+    --bs-btn-line-height: 30px;
+    width: 60%;
+    font-size: 14px;
+}
+
+.validation {
+    margin-top: 30px;
+}
+
+
+.containerrr {
+    margin-top: 40px;
+
+
+}
+
+.foter {
+    margin-top: -50px;
+}
+
+.fs-4 {
+    font-size: calc(0.6rem + .3vw)!important;
+}
+
+
+.te {
+    font-size: 10px;
+}
+
+.accordion-body {
+    font-size: 10px;
+}
+
+}
+
+
+@media (max-width: 830px){  
+
+.kek {
+    --bs-btn-line-height: 30px;
+    width: 20%;
+    font-size: 14px;
+}
+.lol {
+    --bs-btn-line-height: 30px;
+    width: 50%;
+    font-size: 14px;
+}
+
+}
+
+
+@media (max-width: 768px) {  
+
+    .display-4 {
+        font-size: 33px;
+    }
+    
+.container, .container-sm {
+        max-width: 700px;
+}
+
+
+.lead {
+    font-size: 10px;
+}
+  
+.lol {
+    --bs-btn-line-height: 14px;
+    width: 45%;
+    font-size: 10px;
+    
+}
+.fs-5 {
+    font-size: 0.8rem!important;
+}
+.fs-6 {
+    font-size: 0.7rem!important;
+}
+
+.oneone {
+    margin-top: 30px;
+    margin-bottom: -30px;
+}
+.zagolovok {
+    margin-top: 80px;
+}
+.fs-1{
+    font-size: calc(1.2rem)!important;
+}
+.container {
+    margin-top: 15px;
+}
+
+.carousel-inner {
+    max-height: 450px;
+    }
+
+.lol2 {
+    --bs-btn-line-height: 30px;
+    width: 60%;
+    font-size: 14px;
+}
+
+.validation {
+    margin-top: 30px;
+}
+
+
+.containerrr {
+    margin-top: 40px;
+
+
+}
+
+.foter {
+    margin-top: -30px;
+}
+
+.fs-4 {
+    font-size: calc(0.6rem + .3vw)!important;
+}
+
+
+.te {
+    font-size: 8px;
+}
+
+.icon1 {
+    
+}
+.row-cols-1>* {
+    flex: 0 0 auto;
+    width: 50%;
+
+}
+
+}
+
+
+
+
+@media (max-width: 670px) {  
+
+.lol2 {
+    --bs-btn-line-height: 14px;
+    width: 45%;
+    font-size: 10px;
+}
+.kek {
+    --bs-btn-line-height: 14px;
+    width: 25%;
+    font-size: 10px;
+}
+.w-100 {
+    width: 196%!important;
+}
+.foter {
+    margin-top: -60px;
+}
+
+.p {
+    margin-bottom: 0.4rem;
+}
+.to {
+    font-size: calc(0.7rem + .3vw)!important;
+}
+
+.tri {
+    font-size: 25px;
+}
+
+.fs-4 {
+    font-size: calc(0.5rem)!important;
+}
+
+.te {
+    font-size: 7px;
+}
+
+
+.to {
+    font-size: calc(0.7rem + .3vw)!important;
+}
+
+.container, .container-sm {
+    max-width: 550px;
+}
+.foter {
+    margin-top: -65px;
+}
+
+.tt {
+    font-size: 0.6rem!important;
+}
+.tt2 {
+    font-size: 0.5rem!important;
+}
+.display-4 {
+    font-size: 26px;
+}
+.lead {
+    font-size: 8px;
+}
+.lol {
+    --bs-btn-line-height: 9px;
+    width: 45%;
+    font-size: 9px;
+}
+.lol2 {
+    --bs-btn-line-height: 8px;
+    width: 51%;
+    font-size: 8px;
+}
+.tri {
+    font-size: 18px;
+}
+
+}
+
+
+@media (max-width: 470px){  
+
+    .w-100 {
+        width: 250%!important;
+    }
+    .display-4 {
+        font-size: 22px;
+    }
+    .lead {
+        font-size: 9px;
+    }
+
+    .lol {
+        --bs-btn-line-height: 17px;
+        width: 58%;
+        font-size: 10px;
+    }
+    .tt2 {
+        font-size: 0.4rem!important;
+    }
+
+    .tt {
+        font-size: 0.5rem!important;
+    }
+
+    .fs-1 {
+        font-size: calc(1.5rem)!important;
+    }
+
+    .fs-6 {
+        font-size: 0.5rem!important;
+    }
+    .kek {
+        --bs-btn-line-height: 10px;
+        width: 30%;
+        font-size: 8px;
+    }
+    .lol2 {
+        --bs-btn-line-height: 17px;
+    width: 68%;
+    font-size: 10px;
+    }
+    .fs-4 {
+        font-size: calc(0.6rem)!important;
+    }
+    .containerrr {
+        margin-top: 10px;
+    }
+    .tri {
+        font-size: 22px;
+    }
+
+
+}
+
+
+@media (max-width: 420px){ 
+    .row-cols-1>* {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+    
+    .lol {
+        --bs-btn-line-height: 11px;
+        width: 68%;
+        font-size: 8px;
+    }
+    .w-100 {
+        width: 326%!important;
+    }
+    .fs-4 {
+        font-size: calc(0.5rem)!important;
+    }
+    .kek {
+        --bs-btn-line-height: 11px;
+        width: 55%;
+        font-size: 11px;
+    }
+    .lol2 {
+        --bs-btn-line-height: 15px;
+        width: 86%;
+        font-size: 9px;
+    }
+    .fs-1 {
+        font-size: calc(1rem)!important;
+    }
+    .fs-6 {
+        font-size: 0.4rem!important;
+    }
+    p {
+        margin-top: 0;
+        margin-bottom: 0.3rem;
+    }
+
+}
+
+
+
+@media (max-width: 350px){ 
+
+.te {
+    font-size: 6px;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0.3rem;
+}
+}
